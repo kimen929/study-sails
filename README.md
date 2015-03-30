@@ -1,3 +1,2 @@
 # study-sails
-
-a [Sails](http://sailsjs.org) application
+This is a simple web application build on Sails.js 
